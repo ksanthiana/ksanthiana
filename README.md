@@ -20,7 +20,7 @@ I'm building my skills through hands-on projects, experimenting with machine lea
 ### 🚀 Projects
 - [Linear Regression Model](https://github.com/ksanthiana/linear_regression_model) — My work exploring regression and predictive modeling.
 - [ALU Machine Learning](https://github.com/ksanthiana/alu-machine_learning) — Machine learning coursework and practical experiments.
-- [Infrastructure- (https://github.com/ksanthiana/infrastructure) - My mission
+- [Infrastructure](https://github.com/ksanthiana/infrastructure) - My mission
 
 ### 🎯 My Goals
 - Secure an internship in AI, machine learning, or software engineering.
